@@ -1,0 +1,24 @@
+{
+  "name": "codemod-example",
+  "version": "1.0.0",
+  "description": "example for codemod session for IBM FED Kochi session held on 21st May 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin/index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makafsal/codemod-example.git"
+  },
+  "keywords": [
+    "codemod"
+  ],
+  "author": "Afsal K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makafsal/codemod-example/issues"
+  },
+  "homepage": "https://github.com/makafsal/codemod-example#readme"
+}
