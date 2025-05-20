@@ -1,9 +1,9 @@
-import { Button } from "ui-core";
+import { Button } from "ui-lib";
 
 function App() {
   return (
     <div>
-      <Button variant="solid" size="sm" onClick={() => alert("hi")}>
+      <Button kind="primary" small onClick={() => alert("hi")}>
         Click
       </Button>
       <Button kind="secondary">Another</Button>

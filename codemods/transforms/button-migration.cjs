@@ -50,4 +50,4 @@ const transform = (file, api) => {
   return root.toSource();
 }
 
-export default transform;
+module.exports = transform;
